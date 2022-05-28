@@ -1,0 +1,30 @@
+{
+  "name": "pet-shop",
+  "version": "1.0.0",
+  "description": "Pet Shop Smart Contract + Truffle + Node + Chai + Mocha",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaumecxdev/petshop.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/jaumecxdev/petshop/issues"
+  },
+  "homepage": "https://github.com/jaumecxdev/petshop#readme",
+  "dependencies": {
+    "truffle": "^5.5.16"
+  }
+}

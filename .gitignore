@@ -1,3 +1,8 @@
+# Custom
+.secret/
+petshop.code-workspace
+pet-shop-tutorial-master
+
 # Logs
 logs
 *.log
